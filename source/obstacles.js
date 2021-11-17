@@ -103,10 +103,94 @@ const spikeBottomList = [
      },
 
      {
-          seconds: 30.5,
-          quantity: 82,
+          seconds: 30,
+          quantity: 2,
           y: 465
-     }
+     },
+     
+     {
+          seconds: 32,
+          quantity: 4,
+          y: 465
+     },
+
+     {
+          seconds: 34,
+          quantity: 2,
+          y: 465
+     },
+
+     {
+          seconds: 36,
+          quantity: 5,
+          y: 465
+     },
+
+     {
+          seconds: 38,
+          quantity: 5,
+          y: 465
+     },
+
+     {
+          seconds: 40,
+          quantity: 1,
+          y: 465
+     },
+
+     {
+          seconds: 42,
+          quantity: 4,
+          y: 465
+     },
+     
+     {
+          seconds: 44,
+          quantity: 2,
+          y: 465
+     },
+
+     {
+          seconds: 46,
+          quantity: 3,
+          y: 465
+     },
+
+     {
+          seconds: 48,
+          quantity: 2,
+          y: 465
+     },
+
+     {
+          seconds: 50,
+          quantity: 3,
+          y: 465
+     },
+
+     {
+          seconds: 52,
+          quantity: 5,
+          y: 465
+     },
+
+     {
+          seconds: 54,
+          quantity: 2,
+          y: 465
+     },
+
+     {
+          seconds: 58,
+          quantity: 2,
+          y: 465
+     },
+
+     {
+          seconds: 60,
+          quantity: 3,
+          y: 465
+     },
 ]
 
 const spikeTopList = [
@@ -165,10 +249,94 @@ const spikeTopList = [
      },
 
      {
-          seconds: 30.5,
-          quantity: 82,
+          seconds: 30,
+          quantity: 2,
           y: 135
-     }
+     },
+     
+     {
+          seconds: 32,
+          quantity: 4,
+          y: 135
+     },
+
+     {
+          seconds: 34,
+          quantity: 2,
+          y: 135
+     },
+
+     {
+          seconds: 36,
+          quantity: 5,
+          y: 135
+     },
+
+     {
+          seconds: 38,
+          quantity: 5,
+          y: 135
+     },
+
+     {
+          seconds: 40,
+          quantity: 1,
+          y: 135
+     },
+
+     {
+          seconds: 42,
+          quantity: 4,
+          y: 135
+     },
+     
+     {
+          seconds: 44,
+          quantity: 2,
+          y: 135
+     },
+
+     {
+          seconds: 46,
+          quantity: 3,
+          y: 135
+     },
+
+     {
+          seconds: 48,
+          quantity: 2,
+          y: 135
+     },
+
+     {
+          seconds: 50,
+          quantity: 3,
+          y: 135
+     },
+
+     {
+          seconds: 52,
+          quantity: 5,
+          y: 135
+     },
+
+     {
+          seconds: 54,
+          quantity: 2,
+          y: 135
+     },
+
+     {
+          seconds: 58,
+          quantity: 2,
+          y: 135
+     },
+
+     {
+          seconds: 60,
+          quantity: 3,
+          y: 135
+     },
 ]
 
 const spikeSideList = [
@@ -254,68 +422,6 @@ const spikeSideList = [
           seconds: 34,
           quantity: 1,
           y: 140
-     },
-
-     {
-          seconds: 34,
-          quantity: 1,
-          y: 170
-     },
-
-     {
-          seconds: 34,
-          quantity: 1,
-          y: 200
-     },
-
-     {
-          seconds: 34,
-          quantity: 1,
-          y: 230
-     },
-
-     {
-          seconds: 34,
-          quantity: 1,
-          y: 260
-     },
-
-     {
-          seconds: 34,
-          quantity: 1,
-          y: 290
-     },
-
-     {
-          seconds: 34,
-          quantity: 1,
-          y: 320
-     },
-
-     {
-          seconds: 34,
-          quantity: 1,
-          y: 350
-     },
-
-     {
-          seconds: 34,
-          quantity: 1,
-          y: 380
-     },
-
-     {
-          seconds: 34,
-          quantity: 1,
-          y: 410
-     },
-
-     {
-          seconds: 34,
-          quantity: 1,
-          y: 440
-     },
-
-
+     }
 
 ]
