@@ -1,0 +1,38 @@
+/* .fondo{
+
+  
+  background-image: url("assets/image/images.jpg");
+  background-size:cover;
+
+} */
+
+body{
+
+  
+  background-color: rgb(29, 2, 44)
+  
+
+}
+
+
+
+#parrafou{
+  
+  font-family: monospace;
+  text-shadow: 2px 2px 2px black;
+  color: rgb(255, 255, 255);
+
+}
+
+
+
+.parrafo{
+
+text-shadow: 2px 2px 3px black; 
+font-size: 20px;
+color: white;
+margin-left: 40px;
+
+
+}
+
